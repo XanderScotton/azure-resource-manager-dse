@@ -28,7 +28,7 @@ apt-get -y install unzip
 #unzip 5.0.1-4.zip
 #cd install-datastax-ubuntu-5.0.1-4/bin
 
-wget https://github.com/DSPN/install-datastax-ubuntu/archive/master.zip
+wget https://github.com/XanderScotton/install-datastax-ubuntu/archive/master.zip
 unzip master.zip
 cd install-datastax-ubuntu-master/bin
 
